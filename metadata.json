@@ -1,0 +1,6 @@
+{
+  "name": "SOL AI",
+  "description": "An empathetic AI agent to share feelings, select moods like sadness, anxiety, stress, insecurity, or heartbreak, and receive personalized coping guidance and motivation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
